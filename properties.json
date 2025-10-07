@@ -3513,6 +3513,9 @@
         "label_28-1": {
             "class": "label_28"
         },
+        "label_29-1": {
+            "class": "label_29"
+        },
         "CNVII_c": {
             "type": "nerve",
             "models": "UBERON:0001647"
