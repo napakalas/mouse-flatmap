@@ -3815,6 +3815,11 @@
             "type": "nerve",
             "models": "ILX:0738309"
         },
+        "recurrent_laryngeal_17": {
+            "type": "nerve",
+            "models": "ILX:0738308",
+            "name": "External branch of inferior laryngeal nerve"
+        },
         "glossopharyngeal_4": {
             "type": "nerve",
             "models": "ILX:0789339"
@@ -3882,6 +3887,33 @@
         "nasopalatine_c": {
             "type": "nerve",
             "models": "UBERON:0008810"
+        },
+        "n_77_c": {
+            "type": "nerve"
+        },
+        "superior_laryngeal_19": {
+            "type": "nerve"
+        },
+        "superior_laryngeal_20": {
+            "type": "nerve"
+        },
+        "ardell_1_c": {
+            "type": "nerve"
+        },
+        "ardell_4_c": {
+            "type": "nerve"
+        },
+        "ardell_5_c": {
+            "type": "nerve"
+        },
+        "ardell_6_c": {
+            "type": "nerve"
+        },
+        "n_76_c": {
+            "type": "nerve"
+        },
+        "bolser_9_c": {
+            "type": "nerve"
         }
     },
     "networks": [

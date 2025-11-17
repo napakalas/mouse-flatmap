@@ -1343,10 +1343,6 @@
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
     },
-    "recurrent_laryngeal_17": {
-        "term": "ILX:0738308",
-        "name": "External branch of inferior laryngeal nerve"
-    },
     "bolser_4": {
         "term": "ILX:0738374",
         "name": "External branch of superior laryngeal nerve"
