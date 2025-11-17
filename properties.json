@@ -6,9 +6,6 @@
         "ganglion_7": {
             "label": "ventricular intracardiac ganglion"
         },
-        "ganglion_8": {
-            "label": "mediastinal ganglion"
-        },
         "label_1": {
             "label": "dura mater in the posterior cranial fossa"
         },
@@ -1948,7 +1945,10 @@
             "class": "spinal_51"
         },
         "ganglion_8-1": {
-            "class": "ganglion_8"
+            "models": "UBERON:0001808",
+            "name": "parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_9-1": {
             "class": "ganglion_9"

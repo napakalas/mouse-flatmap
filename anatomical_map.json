@@ -1419,10 +1419,6 @@
         "term": "UBERON:0005453",
         "name": "inferior mesenteric ganglion"
     },
-    "ganglion_8": {
-        "term": "UBERON:0001808",
-        "name": "parasympathetic ganglion"
-    },
     "ganglion_9": {
         "term": "UBERON:0001990",
         "name": "middle cervical ganglion"
