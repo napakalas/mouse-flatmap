@@ -13733,6 +13733,15 @@
             <circle fill="#F15A24" cx="1005.33" cy="183.768" r="14.173">
                 <title>.id(brain_54-1)</title>
             </circle>
+            <circle fill="#F15A24" cx="1413.77" cy="289.715" r="14.173" transform="matrix(0.836033, 0, 0, 0.860538, 257.597626, 46.268749)">
+                <title>.id(brain_55-1)</title>
+            </circle>
+            <circle fill="#F15A24" cx="1345.97" cy="270.396" r="14.173" transform="matrix(0.946783, 0, 0, 0.937126, 73.003151, 22.682354)">
+                <title>.id(brain_56-1)</title>
+            </circle>
+            <circle fill="#F15A24" cx="1275.63" cy="262.788" r="14.173" transform="matrix(0.94975, 0, 0, 1.022709, 56.985352, -3.319551)">
+                <title>.id(brain_57-1)</title>
+            </circle>
         </g>
         <g transform="matrix(1, 0, 0, 1, -81.375, 18.031982)" style="">
             <title>Labels</title>
