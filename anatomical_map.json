@@ -1747,6 +1747,22 @@
         "term": "ILX:0795060",
         "name": "eccrine sweat gland of the face"
     },
+    "label_28": {
+        "term": "UBERON:0001456",
+        "name": "face"
+    },
+    "label_29": {
+        "term": "UBERON:0000033",
+        "name": "head"
+    },
+    "label_30": {
+        "term": "UBERON:0000167",
+        "name": "oral cavity"
+    },
+    "label_31": {
+        "term": "UBERON:0002075",
+        "name": "viscus"
+    },
     "label_32": {
         "term": "UBERON:0001484",
         "name": "articular capsule"
