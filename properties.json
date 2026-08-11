@@ -2061,6 +2061,36 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_40-1": {
+            "models": "UBERON:0002262",
+            "name": "celiac ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_41-1": {
+            "models": "UBERON:0005479",
+            "name": "superior mesenteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_42-1": {
+            "models": "ILX:0794730",
+            "name": "aorticorenal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_43-1": {
+            "models": "ILX:0794764",
+            "name": "suprarenal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_44-1": {
+            "models": "ILX:0793821",
+            "name": "prevertebral sympathetic ganglion in abdominal aortic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -3614,9 +3644,21 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_22-1": {
+            "models": "ILX:0795340",
+            "name": "celiac periarterial nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "plexus_24-1": {
             "models": "ILX:0793704",
             "name": "Esophageal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_25-1": {
+            "models": "ILX:0797430",
+            "name": "nerve plexus along the left precaval vein",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -3626,9 +3668,27 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "plexus_25-1": {
-            "models": "ILX:0797430",
-            "name": "nerve plexus along the left precaval vein",
+        "plexus_32-1": {
+            "models": "UBERON:0035772",
+            "name": "aortic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_33-1": {
+            "models": "UBERON:0002010",
+            "name": "celiac nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_34-1": {
+            "models": "UBERON:0005488",
+            "name": "superior mesenteric plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_35-1": {
+            "models": "UBERON:0018676",
+            "name": "renal nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -4125,6 +4185,14 @@
         "superior_ovarian_nerve_c": {
             "type": "nerve",
             "models": "ILX:0793822"
+        },
+        "splenic_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793563"
+        },
+        "mesenteric_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793714"
         },
         "n_77_c": {
             "type": "nerve"
