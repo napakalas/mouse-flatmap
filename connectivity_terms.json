@@ -1,19 +1,6 @@
 [
     {
         "id": [
-            "ILX:0793234",
-            []
-        ],
-        "name": "interganglionic branch of inferior cervical ganglion to middle cervical ganglion",
-        "aliases": [
-            [
-                "ILX:0739241",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "ILX:0793233",
             []
         ],
@@ -757,19 +744,6 @@
     },
     {
         "id": [
-            "UBERON:0018680",
-            []
-        ],
-        "name": "greater splanchnic nerve",
-        "aliases": [
-            [
-                "UBERON:0018679",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
             "UBERON:0001964",
             []
         ],
@@ -1195,43 +1169,20 @@
         "name": "vagus nerve",
         "aliases": [
             [
-                "ILX:0790553",
+                "UBERON:0003535",
                 []
-            ],
-            [
-                "ILX:0794142",
-                []
-            ],
-            [
-                "ILX:0793826",
-                []
-            ],
-            [
-                "ILX:0794141",
-                []
-            ],
-            [
-                "ILX:0794506",
-                []
-            ],
-            [
-                "ILX:0793827",
-                []
-            ],
-            [
-                "ILX:0789580",
-                []
-            ],
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0794473",
+            []
+        ],
+        "name": "abdominal branch of vagus nerve",
+        "aliases": [
             [
                 "ILX:0794476",
-                []
-            ],
-            [
-                "ILX:0794853",
-                []
-            ],
-            [
-                "UBERON:0003535",
                 []
             ]
         ]
