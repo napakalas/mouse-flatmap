@@ -3885,6 +3885,13 @@
         "label_35-1": {
             "class": "label_35"
         },
+        "label_36-1": {
+            "class": "label_36"
+        },
+        "urethral_sphincter": {
+            "models": "UBERON:0004917",
+            "name": "urethral sphincter"
+        },
         "CNVII_c": {
             "type": "nerve",
             "models": "UBERON:0001647"
@@ -4212,11 +4219,11 @@
         },
         "ICG-T1_sympathetic_cord_c": {
             "type": "nerve",
-            "models": "ILX:0793233"
+            "models": "ILX:0738291"
         },
         "MCG-ICG_sympathetic_cord_c": {
             "type": "nerve",
-            "models": "ILX:0793234"
+            "models": "ILX:0738290"
         },
         "lacrimal_zygomatic_c": {
             "type": "nerve",
@@ -4377,7 +4384,7 @@
                 },
                 {
                     "id": "MCG-ICG_sympathetic_cord",
-                    "models": "ILX:0793234",
+                    "models": "ILX:0738290",
                     "connects": [
                         "ganglion_9-1",
                         "ganglion_10-1"
@@ -4385,7 +4392,7 @@
                 },
                 {
                     "id": "ICG-T1_sympathetic_cord",
-                    "models": "ILX:0793233",
+                    "models": "ILX:0738291",
                     "connects": [
                         "ganglion_10-1",
                         "S46_T1"

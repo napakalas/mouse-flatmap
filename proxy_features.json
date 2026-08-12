@@ -35,13 +35,6 @@
         ]
     },
     {
-        "feature": "UBERON:0004917",
-        "name": "urethral sphincter",
-        "proxies": [
-            "ILX:0793141"
-        ]
-    },
-    {
         "feature": "ILX:0793617",
         "name": "T2 sympathetic chain",
         "proxies": [
@@ -81,13 +74,6 @@
         "name": "cervicothoracic ganglion",
         "proxies": [
             "ILX:0774266"
-        ]
-    },
-    {
-        "feature": "UBERON:0035770",
-        "name": "inferior mesenteric nerve plexus",
-        "proxies": [
-            "UBERON:0005453"
         ]
     },
     {
