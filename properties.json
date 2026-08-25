@@ -1,20 +1,5 @@
 {
     "classes": {
-        "ganglion_6": {
-            "label": "atrial intracardiac ganglion"
-        },
-        "ganglion_7": {
-            "label": "ventricular intracardiac ganglion"
-        },
-        "label_1": {
-            "label": "dura mater in the posterior cranial fossa"
-        },
-        "label_2": {
-            "label": "posterior wall of external acoustic meatus"
-        },
-        "label_3": {
-            "label": "floor of external acoustic meatus"
-        },
         "label_11": {
             "label": "arytenoideus"
         },
@@ -27,28 +12,10 @@
         "body_1": {
             "tooltip": false
         },
-        "body_2": {
-            "tooltip": false
-        },
-        "body_3": {
-            "tooltip": false
-        },
-        "body_4": {
-            "tooltip": false
-        },
-        "body_5": {
-            "tooltip": false
-        },
         "body_6": {
             "tooltip": false
         },
         "brain_35": {
-            "tooltip": false
-        },
-        "respiratory_6": {
-            "tooltip": false
-        },
-        "respiratory_7": {
             "tooltip": false
         }
     },
@@ -1956,12 +1923,6 @@
         "S52_T13": {
             "class": "spinal_52"
         },
-        "ganglion_8-1": {
-            "models": "UBERON:0001808",
-            "name": "parasympathetic ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
         "ganglion_9-1": {
             "class": "ganglion_9"
         },
@@ -2009,9 +1970,6 @@
         },
         "ganglion_25-1": {
             "class": "ganglion_25"
-        },
-        "ganglion_26-1": {
-            "class": "ganglion_26"
         },
         "ganglion_27-1": {
             "models": "ILX:0795057",
@@ -2295,6 +2253,9 @@
         "brain_51-1": {
             "class": "brain_51"
         },
+        "brain_52-1": {
+            "class": "brain_52"
+        },
         "brain_54-1": {
             "class": "brain_54"
         },
@@ -2340,32 +2301,17 @@
         "cardio_16-1": {
             "class": "cardio_16"
         },
-        "cardio_18-1": {
-            "class": "cardio_18"
-        },
         "cardio_19-1": {
             "class": "cardio_19"
         },
         "cardio_2-1": {
             "class": "cardio_2"
         },
-        "cardio_20-1": {
-            "class": "cardio_20"
-        },
         "cardio_21-1": {
             "class": "cardio_21"
         },
-        "cardio_22-1": {
-            "class": "cardio_22"
-        },
-        "cardio_23-1": {
-            "class": "cardio_23"
-        },
         "cardio_24-1": {
             "class": "cardio_24"
-        },
-        "cardio_25-1": {
-            "class": "cardio_25"
         },
         "cardio_27-1": {
             "class": "cardio_27"
@@ -2396,18 +2342,6 @@
         },
         "cardio_3-1": {
             "class": "cardio_3"
-        },
-        "cardio_30-1": {
-            "class": "cardio_30"
-        },
-        "cardio_31-1": {
-            "class": "cardio_31"
-        },
-        "cardio_33-1": {
-            "class": "cardio_33"
-        },
-        "cardio_34-1": {
-            "class": "cardio_34"
         },
         "cardio_35-1": {
             "class": "cardio_35"
@@ -2750,12 +2684,10 @@
             "class": "endocrine_5"
         },
         "bladder_nerve": {
-            "class": "keast_1",
             "type": "nerve",
             "models": "ILX:0793559"
         },
         "pudendal_n": {
-            "class": "keast_2",
             "type": "nerve",
             "models": "UBERON:0011390"
         },
@@ -2763,12 +2695,10 @@
             "class": "ganglion_4"
         },
         "pelvic_splanchnic": {
-            "class": "keast_4",
             "type": "nerve",
             "models": "UBERON:0018675"
         },
         "hypogastric": {
-            "class": "keast_5",
             "type": "nerve",
             "models": "UBERON:0005303"
         },
@@ -2776,7 +2706,6 @@
             "class": "ganglion_5"
         },
         "lumbar_splanchnic": {
-            "class": "keast_7",
             "type": "nerve",
             "models": "UBERON:0018683"
         },
@@ -2876,16 +2805,7 @@
         "reproductive_20-1": {
             "class": "reproductive_20"
         },
-        "reproductive_21-1": {
-            "class": "reproductive_21"
-        },
         "reproductive_22-1": {
-            "class": "reproductive_22"
-        },
-        "reproductive_22-2": {
-            "class": "reproductive_22"
-        },
-        "reproductive_22-3": {
             "class": "reproductive_22"
         },
         "reproductive_23-1": {
@@ -3582,9 +3502,6 @@
         "spinal_69-1": {
             "class": "spinal_69"
         },
-        "urinary_10-1": {
-            "class": "urinary_10"
-        },
         "urinary_11-1": {
             "class": "urinary_11"
         },
@@ -3744,9 +3661,6 @@
         "plexus_12-1": {
             "class": "plexus_12"
         },
-        "plexus_13-1": {
-            "class": "plexus_13"
-        },
         "plexus_14-1": {
             "class": "plexus_14"
         },
@@ -3875,9 +3789,6 @@
         },
         "label_22-1": {
             "class": "label_22"
-        },
-        "label_23-1": {
-            "class": "label_23"
         },
         "label_24-1": {
             "class": "label_24"
@@ -6446,20 +6357,6 @@
                     ]
                 },
                 {
-                    "id": "bolser_11",
-                    "connects": [
-                        "brain_12-1",
-                        "point_49"
-                    ]
-                },
-                {
-                    "id": "bolser_31",
-                    "connects": [
-                        "vagus_point_6",
-                        "point_49"
-                    ]
-                },
-                {
                     "id": "medulla_1",
                     "connects": [
                         "brain_33-1",
@@ -6677,22 +6574,6 @@
                     ],
                     "contained-in": [
                         "plexus_12-1"
-                    ]
-                },
-                {
-                    "id": "tympanic",
-                    "models": "UBERON:0036216",
-                    "connects": [
-                        "ganglion_12-1",
-                        "plexus_13-1"
-                    ]
-                },
-                {
-                    "id": "less_pet",
-                    "models": "ILX:0793722",
-                    "connects": [
-                        "plexus_13-1",
-                        "point_50"
                     ]
                 },
                 {
