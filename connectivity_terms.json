@@ -1650,6 +1650,10 @@
             [
                 "ILX:0795047",
                 []
+            ],
+            [
+                "ILX:0795494",
+                []
             ]
         ]
     },
@@ -1767,19 +1771,6 @@
         "aliases": [
             [
                 "ILX:0785878",
-                []
-            ]
-        ]
-    },
-    {
-        "id": [
-            "ILX:0793359",
-            []
-        ],
-        "name": "thirteenth thoracic dorsal root ganglion",
-        "aliases": [
-            [
-                "ILX:0795494",
                 []
             ]
         ]
